@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/Ab3467/Ab3467/assets/138695838/1088a778-c123-4627-ae1c-009c80d89f4e)
+(![image](https://github.com/Ab3467/Ab3467/assets/138695838/1088a778-c123-4627-ae1c-009c80d89f4e)
 <h1 align="center">Hi 👋, I'm Ahmad Abu Bakr</h1>
 <h3 align="center">A passionate website developer from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
