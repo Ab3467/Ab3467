@@ -1,21 +1,19 @@
 ![image](https://github.com/Ab3467/Ab3467/assets/138695838/1088a778-c123-4627-ae1c-009c80d89f4e)
 <h1 align="center">Hi 👋, I'm Ahmad Abu Bakr</h1>
-<h3 align="center">A passionate website developer from Pakistan</h3>
+<h3 align="center">A passionate <h2> Frontend website developer </h2> from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3467&label=Profile%20views&color=0e75b6&style=flat" alt="ab3467" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Next js and React**
+- 🔭 I’m currently working on **React js**
 
-- 🌱 I’m currently learning **Java , C++ , HTML , CSS**
+- 🌱 I’m currently learning **Html, css, javascript and Reactjs**
 
-- 💬 Ask me about **Nextjs And Tailwind**
+- 📫 How to reach me **ahmad,abubakar@vyro.ai**
 
-- 📫 How to reach me **ahmed.nums345@gmail.com**
-
-- ⚡ Fun fact **I am Honest**
+- ⚡ Fun fact **I am I think 🤔 BORING**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
