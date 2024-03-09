@@ -1,6 +1,6 @@
 ![image](https://github.com/Ab3467/Ab3467/assets/138695838/1088a778-c123-4627-ae1c-009c80d89f4e)
 <h1 align="center">Hi 👋, I'm Ahmad Abu Bakr</h1>
-<h3 align="center">A passionate <h2> Frontend website developer </h2> from Pakistan</h3>
+<h3 align="center">A passionate Frontend website developer from Pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3467&label=Profile%20views&color=0e75b6&style=flat" alt="ab3467" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Html, css, javascript and Reactjs**
 
-- 📫 How to reach me **ahmad,abubakar@vyro.ai**
+- 📫 How to reach me **ahmad.abubakar@vyro.ai**
 
 - ⚡ Fun fact **I am I think 🤔 BORING**
 
