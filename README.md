@@ -3,7 +3,8 @@
 <p><img src="https://github.com/user-attachments/assets/b944e33f-facf-468a-b727-2535651d01fa.jpg" alt="Developer illustration GIF" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3467&label=Profile%20views&color=0e75b6&style=flat" alt="ab3467" /> </p>
+<p align="left"> <img src="![image](https://github.com/user-attachments/assets/8ce5ec7a-f483-4059-96ed-2640d3875439)
+" alt="ab3467" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab3467" alt="ab3467" /></a> </p>
 
