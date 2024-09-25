@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad abu bakr</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<p><img src='![frontend_text_2](https://github.com/user-attachments/assets/bb4faded-20a1-48a4-87c0-54cbd99908c9)
-'/></p>
+<p><img src='![image](https://github.com/user-attachments/assets/b944e33f-facf-468a-b727-2535651d01fa)
+/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3467&label=Profile%20views&color=0e75b6&style=flat" alt="ab3467" /> </p>
 
