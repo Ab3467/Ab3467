@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad abu bakr</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<p><img src="https://github.com/user-attachments/assets/b944e33f-facf-468a-b727-2535651d01fa.jpg" alt="Developer illustration GIF" /></p>
+<p><img src='[![image](https://github.com/user-attachments/assets/b944e33f-facf-468a-b727-2535651d01fa)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F1343921-Developers-illustration-GIF&psig=AOvVaw1V9VhVT88VfGrpJciMltU_&ust=1727344424751000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCgi4Lq3YgDFQAAAAAdAAAAABAE)'
+/></p>
 
-
-<p align="left"> <img src="![image](https://github.com/user-attachments/assets/8ce5ec7a-f483-4059-96ed-2640d3875439)
-" alt="ab3467" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab3467&label=Profile%20views&color=0e75b6&style=flat" alt="ab3467" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab3467" alt="ab3467" /></a> </p>
 
